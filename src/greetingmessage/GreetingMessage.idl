@@ -1,0 +1,9 @@
+module GreetingMessageApp
+    {
+    interface GreetingMessage{
+        
+    string message(in string name, in string address );
+
+
+    };
+};
